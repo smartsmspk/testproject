@@ -6,7 +6,7 @@
 <body>
 
 <h1>My Name</h1>
-<p><?php echo "Qasim Ali Khan"; ?></p>
+<p><?php echo "Muhammad Qasim Ali Khan"; ?></p>
 
 </body>
 </html>
